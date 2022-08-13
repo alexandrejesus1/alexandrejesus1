@@ -2,7 +2,6 @@
 
 - 🌱 Cursando análise e desenvolvimento de sistemas
 - 📘 Estudando python
-- 💬 Contate-me via linkedin: https://www.linkedin.com/in/alexandre-adolfo-491a52233
 
 <div align="center">
   <a href="https://github.com/alexandrejesus1">
